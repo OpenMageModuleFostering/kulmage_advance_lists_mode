@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Kulmage_Advance_Lists_Mode",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "This extension allow user to set one more list mode , and which contain only text data.",
+    "authors": [
+    {
+        "name": "Kuldipsinh",
+        "email": "er.kuldipsinh@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

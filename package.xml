@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+    <name>Kulmage_Advance_Lists_Mode</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension allow user to set one more list mode , and which contain only text data.</summary>
+    <description>This extension allow user to set one more list mode , and which contain only text data.&#xD;
+&#xD;
+This will show on product list page as third mode type.&#xD;
+&#xD;
+This type will show only text contest , other than images.&#xD;
+&#xD;
+we will shortly provide new version with admin control to hide/show images . add to cart , other links and product name&#xD;
+</description>
+    <notes>New Release</notes>
+    <authors><author><name>Kuldipsinh</name><user>kuldip</user><email>er.kuldipsinh@gmail.com</email></author></authors>
+    <date>2013-12-31</date>
+    <time>14:39:04</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Kulmage_Textlist.xml" hash="6dc787c4d4c461276d4c5d3548b7134c"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="textlist.xml" hash="55dd9d6826983fb53e810379c28af68a"/></dir><dir name="template"><dir name="textlist"><dir><dir name="catalog"><dir name="product"><file name="textlist.phtml" hash="21ca3d8cbb01cc19c1ddabe34acdbaac"/></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="magelocal"><dir name="Kulmage"><dir name="Textlist"><dir name="Block"><dir name="Product"><dir name="List"><file name="Toolbar.php" hash="afbb30dbd766e0b76dc77e8b87d98d5f"/></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="4868c9ac31e0fed2ebb8d216d6a8439f"/></dir><dir name="Model"><dir name="System"><dir name="Config"><dir name="Source"><file name="Model.php" hash="9de3e06d164b997303774eae26bda4a2"/></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="240b72bd622e4e81c764bc2e23d99688"/><file name="system.xml" hash="8b057a01c9c0a422356e41bb040d706b"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
