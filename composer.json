@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Kulmage_Advance_Lists_Mode",
+    "name": "openmage-module-fostering\/kulmage_advance_lists_mode",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension allow user to set one more list mode , and which contain only text data.",
     "authors": [
